@@ -2,7 +2,7 @@
 
 From the perspective of performance and content marketing, Kaistart.com is the best crowdfunding platform in China. From the perspective of new incoming competitors, the data report attempts to summarize the successful experiences that can be drawn from the data from the beginning platform.
 
-Please read the report notebook [here](https://nbviewer.jupyter.org/github/DidoChan/python-data-assignments/blob/master/assignment2/assignment2.ipynb).
+Please read the report notebook [here](https://nbviewer.jupyter.org/github/DidoChan/python-data-assignments/blob/master/assignment2/assignment2_new.ipynb).
 
 ## 
 
